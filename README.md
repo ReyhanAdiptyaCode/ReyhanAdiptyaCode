@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ReyhanAdiptyaCode
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, PHP, Python
-- 📫 You to reach me instagram   : @reyhan_adiptya
-                      linked-in  : reyhan adiptya
-                      email      :  reyhanadiptya.code@gmail.com
+- 📫 You to reach me 
+- instagram   : @reyhan_adiptya
+- linked-in  : reyhan adiptya
+- email      :  reyhanadiptya.code@gmail.com
                       
 
 <!---
