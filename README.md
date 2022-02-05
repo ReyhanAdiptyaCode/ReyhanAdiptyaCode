@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReyhanAdiptyaCode
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, PHP, Python
-- 📫 You to reach me 
+- 📫 You can reach me to:
 - instagram   : @reyhan_adiptya
 - linked-in  : reyhan adiptya
 - email      :  reyhanadiptya.code@gmail.com
